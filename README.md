@@ -18,4 +18,4 @@ Afterwards, you can easily start the project through
 
 It will automatically host on **localhost:8080**, and also open itself in your default browser.
 
-[Demo link](https://horidor.github.io/mybike-landing/)
+[Demo link](https://horidor.github.io/layout_landing-page/)
