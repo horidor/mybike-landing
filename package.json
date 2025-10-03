@@ -1,7 +1,8 @@
 {
-  "name": "gulp-boilerplate",
+  "name": "mybike-landing",
   "version": "1.0.0",
   "description": "Basic landing made with SCSS",
+  "homepage": "https://horidor.github.io/mybike-landing/",
   "scripts": {
     "init": "mate-scripts init",
     "start": "mate-scripts start",
